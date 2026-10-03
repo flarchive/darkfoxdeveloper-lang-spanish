@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of darkfoxdeveloper/lang-spanish.** Not for installation: use [Packagist](https://packagist.org/packages/darkfoxdeveloper/lang-spanish) or the [upstream repository](https://github.com/darkfoxdeveloper/lang-spanish).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**11** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2019-01-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0) |
+| `v1.0.1` | 2019-01-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.1) |
+| `v1.0.2` | 2019-01-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.2) |
+| `v1.0.3` | 2019-01-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.3) |
+| `v1.0.4` | 2019-06-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.4) |
+| `v1.0.5` | 2019-07-14 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.5) |
+| `v1.0.6` | 2020-07-26 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.6) |
+| `v1.0.7` | 2020-11-19 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.7) |
+| `v1.0.8` | 2020-11-25 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.8) |
+| `v1.0.9` | 2020-12-31 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tree/archive/v1.0.9) |
+
+[View all 11 versions](https://github.com/flarchive/darkfoxdeveloper-lang-spanish/tags)
 
 Catalog entry: [packages/darkfoxdeveloper-lang-spanish.json](https://github.com/flarchive/archive-index/blob/main/packages/darkfoxdeveloper-lang-spanish.json)
 
